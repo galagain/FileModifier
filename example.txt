@@ -1,0 +1,4 @@
+A;		B;		C;		D;		E
+valeur1;	valeur2;	va;leur3;	valeur4;	valeur5
+valeur6;	valeur7;	v;ale;ur8;	valeur9;	valeur10
+valeur11;	valeur12;	valeur13;	valeur14;	valeur15
